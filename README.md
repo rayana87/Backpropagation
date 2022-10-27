@@ -1,2 +1,2 @@
 # Backpropagation
-This work
+In Neural Networks NN, the BackPropagation BP algorithm is still the approach of preference for training large networks. BP is a supervised learning method used by MLP for training. It is a gradient descent algorithm that aims to minimize the errors between the network's output and the desired outcome. The most widely used training algorithm, back-propagation, is a gradient descent technique that efficiently computes the derivatives' values and modifies the weights according to a parameter known as the learning rate. 
